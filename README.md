@@ -5,5 +5,7 @@ by which you can easily fetch live updates of corona cases in india across vario
 The libraries that you need to install are :
 
 Pip install BeautifulSoup
+
 pip install numpy
+
 pip install matplotlib.pyplot
